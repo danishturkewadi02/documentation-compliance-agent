@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Documentation Compliance Report</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body class="report-body">
+
+<div class="report-toolbar">
+
+    <h2>Documentation Compliance Report</h2>
+<div class="button-bar">
+
+    <a href="/download-report">
+        <button class="download-btn">
+             Download PDF
+        </button>
+    </a>
+
+    <a href="/download-json">
+        <button class="download-btn">
+            Download JSON
+        </button>
+    </a>
+
+    <a href="/">
+        <button class="download-btn">
+             New Analysis
+        </button>
+    </a>
+
+</div>
+
+</div>
+
+<iframe
+    src="/view-report"
+    class="report-frame">
+</iframe>
+
+</body>
+
+</html>

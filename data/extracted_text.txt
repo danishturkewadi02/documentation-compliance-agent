@@ -1,0 +1,297 @@
+​H E A LT H C A R E W A I V E R M A N A G E M E N T​
+​WaiverPro​​User​
+​Guidelines & Reference Manual​
+​Document version 1.0​
+​Effective date: June 2026​
+​Applies to: WaiverPro Web Application (Provider Portal)​
+​OFFICIAL USER GUIDE​
+​CON TE N TS​
+​Table of Contents​
+​1.​​About This Guide​
+​2.​​Accessing WaiverPro — The Landing Page​
+​3.​​Signing In​
+​4.​​The Application Workspace & Navigation​
+​5.​​My Applications​
+​6.​​Submitting a New Waiver Application​
+​7.​​Facilities​
+​8.​​Action Items​
+​9.​​User Management​
+​10.​​Announcements​
+​11.​​Support — FAQs, Tickets & Contact​
+
+​12.​​Settings​
+​13.​​Legal — Privacy & Terms​
+​14.​​Appendix — Status Reference​
+​SE C TION 1​
+​About This Guide​
+​WaiverPro is a web-based platform for managing healthcare regulatory waiver requests​
+​from submission through approval. This manual explains how to navigate the​
+​application, submit and track waiver requests, manage facilities and users, and obtain​
+​support.​
+​Who should use this guide​
+​This guide is written for​​provider-portal users​​—​​facility administrators and staff who​
+​prepare, submit, and monitor waiver applications on behalf of their organisation.​
+​Scope​
+​This document describes the provider-facing web application. Every screen, label, and​
+​button described here reflects the live product. Figures show live account data; the specific​
+​records on your screen will differ from the examples pictured.​
+​CONVENTIONS​
+​Button labels and on-screen text are shown in​​bold​.​​Web addresses and field values are shown​
+​in​​monospace​​. Each section also lists the​​URL path​​of the screen it describes, relative to the​
+​site’s base address.​
+​SE C TION 2​
+​Accessing WaiverPro — The Landing Page​
+​URL​​/​
+​Open WaiverPro in your web browser. The public landing page introduces the platform and​
+​lists the waiver programs currently available.​
+
+​Figure 2.1 — The WaiverPro landing page: heading, search bar, and the​​Sign In​​button.​
+​Key elements of the landing page:​
+​Heading​​— “Healthcare Waiver Management”, with the​​tagline “Streamline your​
+​regulatory waiver process from submission to approval”.​
+​Search waivers​​— the search box (placeholder​​Search​​waivers​​) filters the program list​
+​by name.​
+​All Waiver Programs​​— quick-filter buttons name each​​program, and each published​
+​program appears as a card showing its name, description,​​Processing Time​,​​Waiver​
+​Period​, and an eligibility checklist. A program that​​is not currently open shows a status​
+​note (for example, “Expired”, with the dates it was available).​
+​Sign In​​— the button in the top-right corner takes​​you to the sign-in screen.​​Footer​​—​
+​links to​​Privacy Policy​​and​​Terms of Service​, with​​the line “Copyright © 2025​
+​WaiverPro”.​
+
+​Figure 2.2 — The​​All Waiver Programs​​section, listing​​each program as a detailed​
+​card.​​To begin, click​​Sign In​​in the top-right corner​​of the page.​
+​SE C TION 3​
+​Signing In​
+​URL​​/login​
+​The sign-in screen authenticates you into the provider portal.​
+
+​Figure 3.1 — The sign-in screen.​
+​1. Enter your​​Email​​(placeholder​​m@example.com​​).​
+​2. Enter your​​Password​. Passwords must be at least​​6 characters​.​
+​3. Click​​Login​.​
+​If you have forgotten your password, use the​​Forgot​​your password?​​link beside the​
+​password field to begin recovery.​
+​After a successful sign-in you are taken to the​​My​​Applications​​dashboard.​
+​SE C TION 4​
+​The Application Workspace & Navigation​
+​URL​​Shared by all signed-in pages (​​/dashboard/…​​)​
+​Once signed in, every page shares a common layout: a fixed sidebar on the left and a​
+​header along the top.​
+
+​Figure 4.1 — The signed-in workspace. The sidebar (left) provides navigation; the header (top) provides search,​
+​notifications, and your account menu.​
+​The sidebar​
+​At the top of the sidebar the brand​​WaiverPro​​appears​​with the label “Healthcare Waiver​
+​Management”, followed by the primary action button​​+ New Waiver Request​. The​
+​navigation items, in order, are:​
+​My Applications​​— your waiver applications dashboard.​
+​Facilities​​— facilities you manage or belong to.​
+​Action Items​​— pending items that require your attention.​
+​User Management​​— manage the users in your organisation.​
+​Announcements​​— system and program updates.​
+​Settings​​— account and preference settings.​
+
+​Below a​​Support​​heading, four further items appear:​​FAQs​,​​Tickets​,​​Contact​, and​​Take a​
+​Tour​​(which launches a guided walkthrough of the interface).​
+​The header​
+​Search​​— a search box for the current page.​
+​Notifications​​— a bell icon with a badge showing the​​number of outstanding action​
+​items.​​Account​​— your initials appear as an avatar;​​opening it reveals your email​
+​address and a​​Logout​​button.​
+​TIP​
+​The​​+ New Waiver Request​​button is available from​​the sidebar on every page, so you can​
+​start a waiver request at any time.​
+​SE C TION 5​
+​My Applications​
+​URL​​/dashboard/my-applications​
+​The​​My Applications​​dashboard is your home screen.​​It lists your waiver​
+​applications and summarises them in two charts.​
+
+​Figure 5.1 — The My Applications dashboard: waiver-type tabs, status filters, the applications table, and the two​
+​summary charts.​
+​Filtering the list​
+​Two layers of filters narrow the table, each showing a live count:​
+​Waiver-type tabs​​—​​All​,​​Patient Needs Waiver (PNW)​​Request​,​​Program Flexibility​
+​(PF) Request​, and​​Workforce Shortage Waiver (WSW)​​Request​.​
+​Status chips​​—​​All Applications​,​​Draft​,​​Submitted​,​​Reopen​,​​In Review​,​​Rejected​,​
+​Approved​,​​Evaluator Review​,​​Manager Review​,​​Revoked​,​​and​​Expired​.​
+​The applications table​
+​Applications are listed with the columns​​Waiver ID​,​​Name​,​​Facility​,​​Type​,​​Status​,​
+​and​​Created on​. Use the​​Rows per page​​control and​​the page arrows to page through​
+​results.​
+
+​Summary charts​
+​Applications by Type​​— a doughnut chart breaking your​​applications down by​
+​waiver type (PNW, PF, WSW).​
+​Applications Overview​​— a doughnut chart breaking​​your applications down by​
+​status.​
+​SE C TION 6​
+​Submitting a New Waiver Application​
+​URL​​Opens as a panel over the current page (no dedicated​​URL)​
+​Click​​+ New Waiver Request​​in the sidebar to open​​the application panel. A progress bar​
+​and the step tabs​​Waiver Type​,​​Select Location​, and​​Fill Application​​show where you are.​
+​Figure 6.1 — The​​New Waiver Application​​panel, open​​at step one, “Select Waiver Type”.​
+​Step 1 — Waiver Type​
+​Under “Select Waiver Type”, choose the waiver request that best matches your needs. Each​
+​type —​​Patient Needs Waiver (PNW) Request​,​​Program​​Flexibility (PF) Request​, and​
+​Workforce Shortage Waiver (WSW) Request​​— appears​​as a selectable card with a​
+​description. A type that is not currently open is marked (for example, “Expired”) and​
+​cannot be selected; the panel notes the dates it was available.​
+
+​Step 2 — Select Location​
+​Choose the facility (and facility type) the request applies to.​
+​Step 3 — Fill Application​
+​Complete the request details — contact number, dates, description, supporting documents,​
+​and the required acknowledgement — then submit.​
+​Use​​Next​​to advance through the steps; you can return​​to an earlier step to make​
+​changes, and submit your completed request on the final step. The​​×​​button in the​
+​top-right corner closes the panel at any time.​
+​SE C TION 7​
+​Facilities​
+​URL​​/dashboard/facilities​
+​The​​Facilities​​page lists the facilities in your organisation​​and tracks the status of their​
+​waiver applications.​
+
+​Figure 7.1 — The Facilities page, with status filters, the facilities table, and the Facilities Status Overview.​
+​Filters​
+​A row of status chips filters by application due-date status:​​All Facilities​,​​Due Soon​,​
+​Upcoming​,​​Scheduled​,​​Overdue​, and​​No Status​. You can​​further filter by​​Role​​and​​Type​, or​
+​search by name.​
+​NOTE​
+​The status chips and the​​Status​​/​​License Exp Date​​columns are part of the​​Facilities​
+​Status Tracking​​feature, which can be turned on or​​off under​​Settings​​→​​Features​.​
+​The facilities table​
+​Facilities are listed with the columns​​Name​,​​Type​,​​License Number​,​​License Exp Date​, and​
+​Status​. Below the table, the​​Facilities Status Overview​​summarises the portfolio. Use the​
+​paging controls to move through results.​
+​SE C TION 8​
+
+​Action Items​
+​URL​​/dashboard/action-items​
+​The​​Action Items​​page collects pending items that​​require your attention.​
+​Figure 8.1 — The Action Items page, with the items table and the status summary chart.​
+​Items are listed with the columns​​ID​,​​Name​,​​Status​,​​Priority​, and​​Due Date​. Each​​Name​
+​links to the relevant record so you can act on it. You can filter the list by​​Status​​and​
+​Priority​​using the controls at the top right.​
+​Status​​values include​​Done​​and​​In Process​.​
+​Priority​​values are​​High​,​​Medium​, and​​Low​.​
+​Due Date​​shows how far an item is overdue or when​​it is due.​
+​A summary doughnut chart shows the total number of action items broken down by​
+​priority. The same outstanding count is reflected by the notification badge in the header.​
+​SE C TION 9​
+
+​User Management​
+​URL​​/dashboard/user-management​
+​The​​User Management​​page lets organisation administrators​​view and manage the​
+​people who can access WaiverPro on behalf of the organisation.​
+​Figure 9.1 — The User Management page.​
+​Two tabs separate current​​Member​s from​​Pending Invites​,​​each showing a count. The table​
+​lists each user with the columns​​Name​,​​Email​,​​Associated​​Facilities​,​​Last Updated​, and​
+​Actions​​(edit and remove). To add someone, click​​Invite​​User​​in the top-right corner. Use the​
+​search box to locate a specific user, and the paging controls to move through the list.​
+​SE C TION 1 0​
+​Announcements​
+​URL​​/dashboard/announcements​
+​The​​Announcements​​page keeps you informed: “Stay up​​to date with important​
+​system and program updates.”​
+
+​Figure 10.1 — The Announcements page.​
+​Each announcement shows its title, a status badge —​​Active​,​​Upcoming​, or​​Expired​​— an​
+​optional priority badge (​High​,​​Medium​, or​​Low​), and​​its date. Click an announcement to​
+​expand and read its full detail. A search box helps you find a specific announcement.​
+​SE C TION 1 1​
+​Support — FAQs, Tickets & Contact​
+​The​​Support​​section of the sidebar offers three ways​​to get help.​
+​FAQs​
+​URL​​/dashboard/faqs​
+​The​​FAQs​​page answers common questions about WaiverPro.​​Click any question to​
+​expand its answer.​
+
+​Figure 11.1 — The FAQs page.​
+​Support Tickets​
+​URL​​/dashboard/tickets​
+​The​​Tickets​​page (“Support Tickets — Track and manage​​your support tickets.”) lists your​
+​tickets as cards showing the ticket number, status and priority badges, and the​
+​created/updated times. Filter by​​Status​​and​​Priority​,​​and open any ticket with​​View Details​.​
+​Click​​+ New Ticket​​to raise one.​
+
+​Figure 11.2 — The Support Tickets page.​
+​In the​​Create New Support Ticket​​panel, provide a​​Title​, choose the​​Related​
+​Application​, select a​​Category​​and​​Sub Category​, add​​a​​Description​, attach any files,​
+​and click​​Create Ticket​.​
+
+​Figure 11.3 — The Create New Support Ticket panel.​
+​Contact​
+​URL​​/dashboard/contact​
+​The​​Contact​​page (“Get in touch with our support team”)​​provides a message form and the​
+​support team’s direct details.​
+
+​Figure 11.4 — The Contact page.​
+​Support contact details:​
+​Email:​​support@waiver-pro.org​
+​Phone:​​+1 (555) 123-4567​
+​Address:​​123 Healthcare Plaza, Suite 400, New York,​​NY 10001​
+​Business hours:​​Monday – Friday, 9:00 AM – 6:00 PM​​EST (closed weekends)​
+​Messages sent through the form are typically answered within 24 hours during business​
+​days.​
+​SE C TION 1 2​
+​Settings​
+​URL​​/dashboard/settings​
+​The​​Settings​​page (“Manage your account and preferences”)​​shows your organisation​
+​and is organised into four cards.​
+
+​Figure 12.1 — The Settings page.​
+​Organisation​​— the organisation your account belongs​​to is shown at the top of the page.​
+​Profile Information​​— your first name, last name,​​email (read-only), and phone number.​
+​Click​​Save Changes​​to update.​
+​Notifications​​— toggles for​​Email Notifications​,​​Status​​Updates​, and​​Action Items​.​
+​Security​​— change your password. A new password must​​be at least 6 characters​
+​long. Click​​Change Password​​to apply.​
+​Features​​— toggle experimental or upcoming features:​​Facilities Status Tracking​
+​(shows application due dates and status on the Facilities page) and the​​FAQ Assistant​
+​Chatbot​​(off by default).​
+​SE C TION 1 3​
+
+​Legal — Privacy & Terms​
+​URL​​/privacy​​·​​/terms​
+​The​​Privacy Policy​​and​​Terms of Service​​are linked​​from the footer of the landing page​
+​and are available without signing in.​
+​Figure 13.1 — The Privacy Policy page.​
+
+​Figure 13.2 — The Terms of Service page.​
+​Each page is dated “Last updated: December 2025” and provides a​​Back to Home​​link.​
+​APPE N D IX​
+​Appendix — Status Reference​
+​The following values appear throughout WaiverPro.​
+​Waiver application — types & statuses​
+​Waiver types​
+​Application statuses​
+​Patient Needs Waiver (PNW), Program​
+​Flexibility (PF), Workforce Shortage​
+​Waiver (WSW)​
+​Draft, Submitted, Reopen, In Review, Evaluator​
+​Review, Manager Review, Approved, Rejected,​
+​Revoked, Expired​
+​Action items​
+​Status​
+​Priority​
+​Done, In Process​
+​High, Medium, Low​
+​Support tickets​
+
+​Status​
+​Priority​
+​Open, In Progress, Resolved, Closed​
+​High, Medium, Low​
+​Announcements​
+​Status​
+​Meaning​
+​Active​
+​Currently in effect.​
+​Upcoming​
+​Scheduled to take effect.​
+​Expired​
+​No longer in effect.​
+​— End of document —​
+

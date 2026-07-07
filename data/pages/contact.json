@@ -1,0 +1,61 @@
+{
+    "page": "contact",
+    "title": "WaiverPro - Healthcare Waiver Management",
+    "url": "https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/contact",
+    "headings": [
+        "Contact",
+        "Send us a message",
+        "Contact Information",
+        "Quick Response"
+    ],
+    "buttons": [
+        "+ New Application",
+        "Take a Tour",
+        "13",
+        "AD",
+        "Send Message"
+    ],
+    "links": [
+        "My Applications",
+        "Facilities",
+        "Action Items",
+        "User Management",
+        "Announcements",
+        "Settings",
+        "FAQs",
+        "Tickets",
+        "Contact"
+    ],
+    "paragraphs": [
+        "Get in touch with our support team",
+        "We typically respond to all inquiries within 24 hours during business days. For urgent matters, please call our support line."
+    ],
+    "labels": [
+        "Name",
+        "Email",
+        "Subject",
+        "Message"
+    ],
+    "tables": [],
+    "cards": [
+        "Send us a message\nName\nEmail\nSubject\nMessage\nSend Message",
+        "Contact Information\nEmail\nsupport@waiverpro.com\nPhone\n+1 (555) 123-4567\nAddress\n123 Healthcare Plaza\nSuite 400\nNew York, NY 10001\nBusiness Hours\nMonday - Friday: 9:00 AM - 6:00 PM EST\nSaturday - Sunday: Closed",
+        "Quick Response\n\nWe typically respond to all inquiries within 24 hours during business days. For urgent matters, please call our support line."
+    ],
+    "navigation": [
+        "My Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour"
+    ],
+    "list_items": [],
+    "input_placeholders": [
+        "Your name",
+        "your@email.com",
+        "How can we help?"
+    ],
+    "input_names": [],
+    "input_ids": [
+        "name",
+        "email",
+        "subject"
+    ],
+    "all_visible_text": "WaiverPro\nHealthcare Waiver Management\n+ New Application\nMy Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour\nContact\n\nGet in touch with our support team\n\n13\nAD\nSend us a message\nName\nEmail\nSubject\nMessage\nSend Message\nContact Information\nEmail\nsupport@waiverpro.com\nPhone\n+1 (555) 123-4567\nAddress\n123 Healthcare Plaza\nSuite 400\nNew York, NY 10001\nBusiness Hours\nMonday - Friday: 9:00 AM - 6:00 PM EST\nSaturday - Sunday: Closed\nQuick Response\n\nWe typically respond to all inquiries within 24 hours during business days. For urgent matters, please call our support line."
+}

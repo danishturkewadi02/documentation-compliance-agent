@@ -1,0 +1,84 @@
+{
+    "page": "settings",
+    "title": "WaiverPro - Healthcare Waiver Management",
+    "url": "https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/settings",
+    "headings": [
+        "Settings",
+        "Partner Sample",
+        "Profile Information",
+        "Notifications",
+        "Security",
+        "Features"
+    ],
+    "buttons": [
+        "+ New Application",
+        "Take a Tour",
+        "13",
+        "AD",
+        "Save Changes",
+        "Change Password"
+    ],
+    "links": [
+        "My Applications",
+        "Facilities",
+        "Action Items",
+        "User Management",
+        "Announcements",
+        "Settings",
+        "FAQs",
+        "Tickets",
+        "Contact"
+    ],
+    "paragraphs": [
+        "Manage your account and preferences",
+        "ORGANISATION",
+        "Email address cannot be changed",
+        "Receive updates about your applications",
+        "Get notified when application status changes",
+        "Alerts for tasks requiring your attention",
+        "Password must be at least 6 characters long",
+        "Toggle experimental or upcoming features",
+        "Show application due dates and status on the Facilities page",
+        "Show the AI FAQ assistant. Off by default to avoid loading it on every page."
+    ],
+    "labels": [
+        "First Name",
+        "Last Name",
+        "Email",
+        "Phone Number",
+        "Email Notifications",
+        "Status Updates",
+        "Action Items",
+        "Current Password",
+        "New Password",
+        "Confirm New Password",
+        "Facilities Status Tracking",
+        "FAQ Assistant Chatbot"
+    ],
+    "tables": [],
+    "cards": [
+        "P\n\nORGANISATION\n\nPartner Sample",
+        "Profile Information\nFirst Name\nLast Name\nEmail\n\nEmail address cannot be changed\n\nPhone Number\nSave Changes",
+        "Notifications\nEmail Notifications\n\nReceive updates about your applications\n\nStatus Updates\n\nGet notified when application status changes\n\nAction Items\n\nAlerts for tasks requiring your attention",
+        "Security\nCurrent Password\nNew Password\n\nPassword must be at least 6 characters long\n\nConfirm New Password\nChange Password",
+        "Features\n\nToggle experimental or upcoming features\n\nFacilities Status Tracking\n\nShow application due dates and status on the Facilities page\n\nFAQ Assistant Chatbot\n\nShow the AI FAQ assistant. Off by default to avoid loading it on every page."
+    ],
+    "navigation": [
+        "My Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour"
+    ],
+    "list_items": [],
+    "input_placeholders": [
+        "At least 6 characters"
+    ],
+    "input_names": [],
+    "input_ids": [
+        "firstName",
+        "lastName",
+        "email",
+        "phone",
+        "currentPassword",
+        "newPassword",
+        "confirmPassword"
+    ],
+    "all_visible_text": "WaiverPro\nHealthcare Waiver Management\n+ New Application\nMy Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour\nSettings\n\nManage your account and preferences\n\n13\nAD\nP\n\nORGANISATION\n\nPartner Sample\nProfile Information\nFirst Name\nLast Name\nEmail\n\nEmail address cannot be changed\n\nPhone Number\nSave Changes\nNotifications\nEmail Notifications\n\nReceive updates about your applications\n\nStatus Updates\n\nGet notified when application status changes\n\nAction Items\n\nAlerts for tasks requiring your attention\n\nSecurity\nCurrent Password\nNew Password\n\nPassword must be at least 6 characters long\n\nConfirm New Password\nChange Password\nFeatures\n\nToggle experimental or upcoming features\n\nFacilities Status Tracking\n\nShow application due dates and status on the Facilities page\n\nFAQ Assistant Chatbot\n\nShow the AI FAQ assistant. Off by default to avoid loading it on every page."
+}

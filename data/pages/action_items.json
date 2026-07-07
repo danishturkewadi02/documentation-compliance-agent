@@ -1,0 +1,47 @@
+{
+    "page": "action_items",
+    "title": "WaiverPro - Healthcare Waiver Management",
+    "url": "https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/action-items",
+    "headings": [
+        "Action Items",
+        "Action Items"
+    ],
+    "buttons": [
+        "+ New Application",
+        "Take a Tour",
+        "13",
+        "AD",
+        "Status",
+        "Priority",
+        "10"
+    ],
+    "links": [
+        "My Applications",
+        "Facilities",
+        "Action Items",
+        "User Management",
+        "Announcements",
+        "Settings",
+        "FAQs",
+        "Tickets",
+        "Contact"
+    ],
+    "paragraphs": [],
+    "labels": [],
+    "tables": [
+        "ID\tName\tStatus\tPriority\tDue Date\n\n\tTASK-90586\t\ntest 1\n\t\nDone\t\nHigh\t139d overdue\n\n\tTASK-62923\t\nUpload Documents\n\t\nDone\t\nHigh\t124d overdue\n\n\tTASK-52555\t\ntest abc\n\t\nIn Process\t\nMedium\t7 days left\n\n\tTASK-32250\t\nAction item test\n\t\nIn Process\t\nHigh\t130d overdue\n\n\tTASK-92587\t\nTest Record - DailyStandup\n\t\nIn Process\t\nHigh\t129d overdue\n\n\tTASK-56375\t\nTest Record - DailyStandup March 1st\n\t\nDone\t\nHigh\t128d overdue\n\n\tTASK-61060\t\nUpload Documents\n\t\nDone\t\nLow\t127d overdue\n\n\tTASK-72133\t\naction item 1\n\t\nIn Process\t\nHigh\t116d overdue\n\n\tTASK-36069\t\naction item 2\n\t\nIn Process\t\nLow\t115d overdue\n\n\tTASK-24204\t\nTest Record\n\t\nIn Process\t\nHigh\t130d overdue"
+    ],
+    "cards": [
+        "Action Items\nHigh\nLow\nMedium\n13\nTotal"
+    ],
+    "navigation": [
+        "My Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour"
+    ],
+    "list_items": [],
+    "input_placeholders": [
+        "Search"
+    ],
+    "input_names": [],
+    "input_ids": [],
+    "all_visible_text": "WaiverPro\nHealthcare Waiver Management\n+ New Application\nMy Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour\nAction Items\n13\nAD\nStatus\nPriority\n\tID\tName\tStatus\tPriority\tDue Date\n\n\tTASK-90586\t\ntest 1\n\t\nDone\t\nHigh\t139d overdue\n\n\tTASK-62923\t\nUpload Documents\n\t\nDone\t\nHigh\t124d overdue\n\n\tTASK-52555\t\ntest abc\n\t\nIn Process\t\nMedium\t7 days left\n\n\tTASK-32250\t\nAction item test\n\t\nIn Process\t\nHigh\t130d overdue\n\n\tTASK-92587\t\nTest Record - DailyStandup\n\t\nIn Process\t\nHigh\t129d overdue\n\n\tTASK-56375\t\nTest Record - DailyStandup March 1st\n\t\nDone\t\nHigh\t128d overdue\n\n\tTASK-61060\t\nUpload Documents\n\t\nDone\t\nLow\t127d overdue\n\n\tTASK-72133\t\naction item 1\n\t\nIn Process\t\nHigh\t116d overdue\n\n\tTASK-36069\t\naction item 2\n\t\nIn Process\t\nLow\t115d overdue\n\n\tTASK-24204\t\nTest Record\n\t\nIn Process\t\nHigh\t130d overdue\nRows per page\n10\nPage 1 of 2\nAction Items\nHigh\nLow\nMedium\n13\nTotal"
+}

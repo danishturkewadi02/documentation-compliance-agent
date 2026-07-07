@@ -1,0 +1,36 @@
+{
+    "page": "login",
+    "title": "WaiverPro - Healthcare Waiver Management",
+    "url": "https://white-cliff-0bca3ed00.1.azurestaticapps.net/login",
+    "headings": [
+        "Login to your account"
+    ],
+    "buttons": [
+        "Forgot your password?",
+        "Login"
+    ],
+    "links": [],
+    "paragraphs": [
+        "Enter your email below to login to your account."
+    ],
+    "labels": [
+        "Email",
+        "Password"
+    ],
+    "tables": [],
+    "cards": [],
+    "navigation": [],
+    "list_items": [],
+    "input_placeholders": [
+        "m@example.com"
+    ],
+    "input_names": [
+        "email",
+        "password"
+    ],
+    "input_ids": [
+        "email",
+        "password"
+    ],
+    "all_visible_text": "WaiverPro\nLogin to your account\n\nEnter your email below to login to your account.\n\nEmail\nPassword\nForgot your password?\nLogin"
+}

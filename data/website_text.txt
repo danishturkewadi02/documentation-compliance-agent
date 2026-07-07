@@ -1,0 +1,104 @@
+WaiverPro
+Healthcare Waiver Management
++ New Application
+My Applications
+Facilities
+Action Items
+User Management
+Announcements
+Settings
+Support
+FAQs
+Tickets
+Contact
+Take a Tour
+My Applications
+0
+AD
+All Applications
+0
+Draft 0
+Submitted 0
+Reopen 0
+In Review 0
+Rejected 0
+Approved 0
+Evaluator Review 0
+Manager Review 0
+Revoked 0
+Expired 0
+Waiver ID	Name	Facility	Type	Status	Created on
+
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+Rows per page
+10
+Page 1 of 0
+Applications by Type
+Applications Overview

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Documentation Compliance Agent</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Documentation Compliance Agent</h1>
+
+    <form action="/analyze"
+          method="POST"
+          enctype="multipart/form-data">
+
+        <label>Upload PDF</label>
+
+        <input type="file"
+               name="pdf_file"
+               required>
+
+        <label>Website URL</label>
+
+        <input type="text"
+               name="url"
+               placeholder="Enter website URL"
+               required>
+
+        <label>Email</label>
+
+        <input type="email"
+               name="email"
+               placeholder="admin@gmail.com"
+               required>
+
+        <label>Password</label>
+
+        <input type="password"
+               name="password"
+               required>
+
+        <button type="submit">
+
+            Start Analysis
+
+        </button>
+
+    </form>
+
+    {% if result %}
+
+        <div style="margin-top:30px; text-align:center;">
+
+            <h3 style="color:green;">
+                {{ result }}
+            </h3>
+
+            <br>
+
+            <a href="/download-report">
+
+                <button type="button" class="download-btn">
+
+                    Download PDF Report
+
+                </button>
+
+            </a>
+
+            &nbsp;&nbsp;
+
+            <a href="/reports/compliance_report.html"
+               target="_blank">
+
+                <button type="button" class="download-btn">
+
+                    View HTML Report
+
+                </button>
+
+            </a>
+
+        </div>
+
+    {% endif %}
+
+</div>
+
+</body>
+
+</html>

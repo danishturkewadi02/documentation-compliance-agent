@@ -1,0 +1,53 @@
+{
+    "page": "facilities",
+    "title": "WaiverPro - Healthcare Waiver Management",
+    "url": "https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/facilities",
+    "headings": [
+        "Facilities",
+        "Facilities Status Overview"
+    ],
+    "buttons": [
+        "+ New Application",
+        "Take a Tour",
+        "13",
+        "AD",
+        "All Facilities\n0",
+        "Due Soon\n0",
+        "Upcoming\n0",
+        "Scheduled\n0",
+        "Overdue\n0",
+        "No Status\n0",
+        "Role",
+        "Type",
+        "10"
+    ],
+    "links": [
+        "My Applications",
+        "Facilities",
+        "Action Items",
+        "User Management",
+        "Announcements",
+        "Settings",
+        "FAQs",
+        "Tickets",
+        "Contact"
+    ],
+    "paragraphs": [],
+    "labels": [],
+    "tables": [
+        "Name\tType\tLicense Number\tLicense Exp Date\tStatus\n\nCALCARE HOME HEALTH INC\n520 E FOOTHILL BLVD, SUITE D, POMONA 91767.0\n\tHome Health\t980001578\tJun 1, 2026\tOverdue\n\nCONSTANT CARE HOME HEALTH AGENCY, INC.\n1243 W GLENOAKS BLVD, SUITE A, GLENDALE 91201.0\n\tHome Health\t980001580\t--\tNo Status\n\nSKIRBALL HOSPICE\n6345 BALBOA BLVD, SUITE 315, ENCINO 91316.0\n\tHOSPICE\t980001583\t--\tNo Status\n\nGENTLE CARE, INC.\n13101 W WASHINGTON BLVD, SUITE 142, LOS ANGELES 90066.0\n\tHome Health\t550000174\t--\tNo Status\n\nGRACE HOSPICE, INC.\n1711 W TEMPLE ST, SUITE 3614, LOS ANGELES 90026.0\n\tHOSPICE\t980001586\t--\tNo Status\n\nACKNOWLEDGE HOME HEALTH, INC.\n13624 HAWTHORNE BLVD, SUITE 210, HAWTHORNE 90250.0\n\tHome Health\t980001587\t--\tNo Status\n\nSTAR CARE HOME HEALTH, INC.\n10660 WHITE OAKS AVE, SUITE 218, GRANADA HILLS 91344.0\n\tHome Health\t980001589\t--\tNo Status\n\nASSURANCE HOSPICE, INC.\n444 E HUNTINGTON DR, SUITE 103, ARCADIA 91006.0\n\tHOSPICE\t980001596\t--\tNo Status\n\nSUNSHINE HOME HEALTH SERVICES, INC.\n4201 LONG BEACH BLVD, SUITE 412B, LONG BEACH 90807.0\n\tHome Health\t980001597\t--\tNo Status\n\nIDEAL CARE HOME HEALTH, INC.\n21021 DEVONSHIRE ST, SUITE 204, CHATSWORTH 91311.0\n\tHome Health\t980001599\t--\tNo Status"
+    ],
+    "cards": [
+        "Facilities Status Overview"
+    ],
+    "navigation": [
+        "My Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour"
+    ],
+    "list_items": [],
+    "input_placeholders": [
+        "Search"
+    ],
+    "input_names": [],
+    "input_ids": [],
+    "all_visible_text": "WaiverPro\nHealthcare Waiver Management\n+ New Application\nMy Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour\nFacilities\n13\nAD\nAll Facilities\n0\nDue Soon\n0\nUpcoming\n0\nScheduled\n0\nOverdue\n0\nNo Status\n0\nRole\nType\nName\tType\tLicense Number\tLicense Exp Date\tStatus\n\nCALCARE HOME HEALTH INC\n520 E FOOTHILL BLVD, SUITE D, POMONA 91767.0\n\tHome Health\t980001578\tJun 1, 2026\tOverdue\n\nCONSTANT CARE HOME HEALTH AGENCY, INC.\n1243 W GLENOAKS BLVD, SUITE A, GLENDALE 91201.0\n\tHome Health\t980001580\t--\tNo Status\n\nSKIRBALL HOSPICE\n6345 BALBOA BLVD, SUITE 315, ENCINO 91316.0\n\tHOSPICE\t980001583\t--\tNo Status\n\nGENTLE CARE, INC.\n13101 W WASHINGTON BLVD, SUITE 142, LOS ANGELES 90066.0\n\tHome Health\t550000174\t--\tNo Status\n\nGRACE HOSPICE, INC.\n1711 W TEMPLE ST, SUITE 3614, LOS ANGELES 90026.0\n\tHOSPICE\t980001586\t--\tNo Status\n\nACKNOWLEDGE HOME HEALTH, INC.\n13624 HAWTHORNE BLVD, SUITE 210, HAWTHORNE 90250.0\n\tHome Health\t980001587\t--\tNo Status\n\nSTAR CARE HOME HEALTH, INC.\n10660 WHITE OAKS AVE, SUITE 218, GRANADA HILLS 91344.0\n\tHome Health\t980001589\t--\tNo Status\n\nASSURANCE HOSPICE, INC.\n444 E HUNTINGTON DR, SUITE 103, ARCADIA 91006.0\n\tHOSPICE\t980001596\t--\tNo Status\n\nSUNSHINE HOME HEALTH SERVICES, INC.\n4201 LONG BEACH BLVD, SUITE 412B, LONG BEACH 90807.0\n\tHome Health\t980001597\t--\tNo Status\n\nIDEAL CARE HOME HEALTH, INC.\n21021 DEVONSHIRE ST, SUITE 204, CHATSWORTH 91311.0\n\tHome Health\t980001599\t--\tNo Status\nShowing 1 to 10 of 5000 results\nRows per page\n10\nPage 1 of 500\nFacilities Status Overview"
+}

@@ -1,0 +1,64 @@
+{
+    "page": "faqs",
+    "title": "WaiverPro - Healthcare Waiver Management",
+    "url": "https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/faqs",
+    "headings": [
+        "FAQs",
+        "How do I submit a new waiver application?",
+        "What is the typical review time for waiver applications?",
+        "How can I track the status of my application?",
+        "What types of waivers can I apply for?",
+        "Can I edit an application after submission?",
+        "How do I add or manage facilities?",
+        "What should I do if my application is rejected?",
+        "How do I contact support?"
+    ],
+    "buttons": [
+        "+ New Application",
+        "Take a Tour",
+        "13",
+        "AD",
+        "How do I submit a new waiver application?",
+        "What is the typical review time for waiver applications?",
+        "How can I track the status of my application?",
+        "What types of waivers can I apply for?",
+        "Can I edit an application after submission?",
+        "How do I add or manage facilities?",
+        "What should I do if my application is rejected?",
+        "How do I contact support?"
+    ],
+    "links": [
+        "My Applications",
+        "Facilities",
+        "Action Items",
+        "User Management",
+        "Announcements",
+        "Settings",
+        "FAQs",
+        "Tickets",
+        "Contact"
+    ],
+    "paragraphs": [
+        "Frequently asked questions about WaiverPro"
+    ],
+    "labels": [],
+    "tables": [],
+    "cards": [
+        "How do I submit a new waiver application?\nClick on the \"+ New Application\" button in the sidebar. You will be guided through the application process step by step. Make sure to have all required documentation ready before starting.",
+        "What is the typical review time for waiver applications?",
+        "How can I track the status of my application?",
+        "What types of waivers can I apply for?",
+        "Can I edit an application after submission?",
+        "How do I add or manage facilities?",
+        "What should I do if my application is rejected?",
+        "How do I contact support?"
+    ],
+    "navigation": [
+        "My Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour"
+    ],
+    "list_items": [],
+    "input_placeholders": [],
+    "input_names": [],
+    "input_ids": [],
+    "all_visible_text": "WaiverPro\nHealthcare Waiver Management\n+ New Application\nMy Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour\nFAQs\n\nFrequently asked questions about WaiverPro\n\n13\nAD\nHow do I submit a new waiver application?\nClick on the \"+ New Application\" button in the sidebar. You will be guided through the application process step by step. Make sure to have all required documentation ready before starting.\nWhat is the typical review time for waiver applications?\nHow can I track the status of my application?\nWhat types of waivers can I apply for?\nCan I edit an application after submission?\nHow do I add or manage facilities?\nWhat should I do if my application is rejected?\nHow do I contact support?"
+}

@@ -1,0 +1,45 @@
+{
+    "page": "user_management",
+    "title": "WaiverPro - Healthcare Waiver Management",
+    "url": "https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/user-management",
+    "headings": [
+        "User Management"
+    ],
+    "buttons": [
+        "+ New Application",
+        "Take a Tour",
+        "13",
+        "AD",
+        "Member (4)",
+        "Pending Invites\n19",
+        "Invite User",
+        "10"
+    ],
+    "links": [
+        "My Applications",
+        "Facilities",
+        "Action Items",
+        "User Management",
+        "Announcements",
+        "Settings",
+        "FAQs",
+        "Tickets",
+        "Contact"
+    ],
+    "paragraphs": [],
+    "labels": [],
+    "tables": [
+        "Name\tEmail\tAssociated Facilities\tLast Updated\tActions\n\nSiva Siva\n\tsiddakasivareddy@gmail.com\t3\t3 months ago\t\n\n\nadam smiths\n\tadam.smith@gmail.com\t3\t4 months ago\t\n\n\nSiva reddy\n\tsivareddy103@gmail.com\t3\t5 months ago\t\n\n\nPartner Admin\n\tadmin@firstupconsultants.com\t6\t5 months ago"
+    ],
+    "cards": [],
+    "navigation": [
+        "My Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour"
+    ],
+    "list_items": [],
+    "input_placeholders": [
+        "Search"
+    ],
+    "input_names": [],
+    "input_ids": [],
+    "all_visible_text": "WaiverPro\nHealthcare Waiver Management\n+ New Application\nMy Applications\nFacilities\nAction Items\nUser Management\nAnnouncements\nSettings\nSupport\nFAQs\nTickets\nContact\nTake a Tour\nUser Management\n13\nAD\nMember (4)\nPending Invites\n19\nInvite User\nName\tEmail\tAssociated Facilities\tLast Updated\tActions\n\nSiva Siva\n\tsiddakasivareddy@gmail.com\t3\t3 months ago\t\n\n\nadam smiths\n\tadam.smith@gmail.com\t3\t4 months ago\t\n\n\nSiva reddy\n\tsivareddy103@gmail.com\t3\t5 months ago\t\n\n\nPartner Admin\n\tadmin@firstupconsultants.com\t6\t5 months ago\t\nRows per page\n10\nPage 1 of 1"
+}
