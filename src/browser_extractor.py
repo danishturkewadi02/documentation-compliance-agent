@@ -7,8 +7,10 @@ def open_website(url, email, password):
 
     with sync_playwright() as p:
 
+        import os
+
         browser = p.chromium.launch(
-            headless=False
+        headless=os.getenv("RENDER") is not None
         )
 
         page = browser.new_page()
