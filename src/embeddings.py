@@ -13,6 +13,6 @@ def create_embeddings(chunks):
             "all-MiniLM-L6-v2"
         )
 
-    embeddings = model.encode(chunks)
+        return model.encode(chunks)
 
-    return embeddings
+     
