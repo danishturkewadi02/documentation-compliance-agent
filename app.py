@@ -12,14 +12,14 @@ import faiss
 from src.pdf_report_generator import generate_pdf
 from src.pdf_parser import extract_pdf_text
 from src.text_chunker import chunk_text
-#from src.embeddings import create_embeddings
-#from src.vector_store import create_faiss_index
-#from src.rag_retriever import retrieve_relevant_chunks
+from src.embeddings import create_embeddings
+from src.vector_store import create_faiss_index
+from src.rag_retriever import retrieve_relevant_chunks
 from src.requirement_extractor import extract_requirements
 from src.report_generator import generate_html
-#from src.browser_extractor import open_website
+from src.browser_extractor import open_website
 from src.page_loader import load_pages
-#from src.ai_compliance_analyzer import analyze as ai_analyze
+from src.ai_compliance_analyzer import analyze as ai_analyze
 from flask import send_file
 print("=" * 60)
 print("RUNNING APP.PY")
